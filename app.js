@@ -90,6 +90,10 @@
       const topics = [...new Set(papers.flatMap((paper) => paper.topics))].sort((a, b) => a.localeCompare(b));
       els.topics.innerHTML += topics.map((label) => `<button type="button" class="topic-chip" data-topic="${esc(label)}" aria-pressed="false">${esc(label)}</button>`).join('');
       render();
+      // The bibliography changes the height above About after the initial anchor jump.
+      if (window.location.hash === '#about') {
+        document.getElementById('about').scrollIntoView({behavior: 'instant', block: 'start'});
+      }
     } catch (error) {
       els.error.hidden = false; els.count.textContent = 'Collection unavailable'; $('#download-bib').disabled = true;
       console.error('Fortuity Atlas:', error.message);
