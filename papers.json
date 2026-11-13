@@ -1,0 +1,748 @@
+{
+  "updated": "2026-11-13",
+  "scope": "Research bibliography of arXiv hep-th papers centrally developing or applying fortuity, plus selected direct precursors. Current arXiv titles and summaries, dated by first submission. Broader related literature remains selective.",
+  "papers": [
+    {
+      "id": "2611.13097",
+      "title": "BPS Bootstrap",
+      "authors": [
+        "Yiming Chen"
+      ],
+      "date": "2026-11-09",
+      "category": "hep-th",
+      "topics": [
+        "N=4 SYM",
+        "BMN"
+      ],
+      "kind": "background",
+      "summary": "Applies the large-N matrix bootstrap to expectation values in heavy BPS states. Horizonless sectors yield broad allowed regions; preliminary results for the 1/16-BPS BMN sector explore the harder problem of isolating black-hole states.",
+      "url": "https://arxiv.org/abs/2611.13097",
+      "pdf": "https://arxiv.org/pdf/2611.13097"
+    },
+    {
+      "id": "2611.04722",
+      "title": "Fortuitous BMN Operators from Multiple Cores",
+      "authors": [
+        "Robert de Mello Koch",
+        "Sarthak Duary",
+        "Minkyoo Kim",
+        "Sinong Liu"
+      ],
+      "date": "2026-11-03",
+      "category": "hep-th",
+      "topics": [
+        "N=4 SYM",
+        "BMN"
+      ],
+      "kind": "core",
+      "summary": "Constructs fortuitous BMN operators from multiple lower-rank cores, with restriction maps establishing non-exactness and an explicit two-core SU(4) example.",
+      "url": "https://arxiv.org/abs/2611.04722",
+      "pdf": "https://arxiv.org/pdf/2611.04722"
+    },
+    {
+      "id": "2610.36035",
+      "title": "BPS Chaos and Fortuity in Higgs Branches I: The Gepner Point",
+      "authors": [
+        "Micha Berkooz",
+        "Trivko Kukolj",
+        "Ohad Mamroud",
+        "Josef Seitz"
+      ],
+      "date": "2026-10-26",
+      "category": "hep-th",
+      "topics": [
+        "Other models",
+        "General framework"
+      ],
+      "kind": "core",
+      "summary": "Identifies pure-Higgs states as fortuitous cohomologies in quiver quantum mechanics and probes their chaos using Berry/Chern curvature at a Gepner point.",
+      "url": "https://arxiv.org/abs/2610.36035",
+      "pdf": "https://arxiv.org/pdf/2610.36035"
+    },
+    {
+      "id": "2610.22332",
+      "title": "Non-Coulomb Q-cohomology and quantum lifting",
+      "authors": [
+        "Tanay Kibe",
+        "Sam van Leuven",
+        "Kayleigh Mathieson"
+      ],
+      "date": "2026-10-15",
+      "category": "hep-th",
+      "topics": [
+        "N=4 SYM",
+        "BMN",
+        "Quantum corrections"
+      ],
+      "kind": "core",
+      "summary": "Studies non-Coulomb monotones and fortuitous lifting partners, deriving restrictions on one-loop quantum lifting and a discriminant-dressing no-hair relation.",
+      "url": "https://arxiv.org/abs/2610.22332",
+      "pdf": "https://arxiv.org/pdf/2610.22332"
+    },
+    {
+      "id": "2610.21592",
+      "title": "Fortuitous BMN Cohomology at Every N",
+      "authors": [
+        "Robert de Mello Koch",
+        "Minkyoo Kim",
+        "Sinong Liu"
+      ],
+      "date": "2026-10-15",
+      "category": "hep-th",
+      "topics": [
+        "N=4 SYM",
+        "BMN"
+      ],
+      "kind": "core",
+      "summary": "Builds polynomial fortuitous BMN classes for every SU(N), N ≥ 3, from an SU(2) core and proves non-exactness through block restriction.",
+      "url": "https://arxiv.org/abs/2610.21592",
+      "pdf": "https://arxiv.org/pdf/2610.21592"
+    },
+    {
+      "id": "2610.20340",
+      "title": "Black hole cohomologies in N=4 SYM",
+      "authors": [
+        "Seunggyu Kim",
+        "Jehyun Lee",
+        "Siyul Lee",
+        "Jaewon Song"
+      ],
+      "date": "2026-10-14",
+      "category": "hep-th",
+      "topics": [
+        "N=4 SYM",
+        "BMN",
+        "Quantum corrections"
+      ],
+      "kind": "core",
+      "summary": "Computes low-rank BMN cohomologies, finds surviving brane-fused families, and proposes a charge-conjugation parity criterion distinguishing black hole classes from gravitons.",
+      "url": "https://arxiv.org/abs/2610.20340",
+      "pdf": "https://arxiv.org/pdf/2610.20340"
+    },
+    {
+      "id": "2610.15918",
+      "title": "Random wave chaos on momentum-fractionated microstate geometries",
+      "authors": [
+        "Vladan Djukić",
+        "Mihailo Čubrović"
+      ],
+      "date": "2026-10-11",
+      "category": "hep-th",
+      "topics": [
+        "D1–D5"
+      ],
+      "kind": "background",
+      "summary": "Probes geodesic and wave chaos on fractionated superstrata and explores a possible relation between momentum fractionation and the monotone–fortuitous distinction.",
+      "url": "https://arxiv.org/abs/2610.15918",
+      "pdf": "https://arxiv.org/pdf/2610.15918"
+    },
+    {
+      "id": "2609.19297",
+      "title": "Fortuity on the conifold",
+      "authors": [
+        "Jaehyeok Choi",
+        "Sunjin Choi",
+        "Seok Kim"
+      ],
+      "date": "2026-09-16",
+      "category": "hep-th",
+      "topics": [
+        "Other models",
+        "General framework"
+      ],
+      "kind": "core",
+      "summary": "Formulates Klebanov–Witten cohomology in the UV, refines monotonicity to accommodate baryons, and constructs fortuitous classes for SU(2) × SU(2).",
+      "url": "https://arxiv.org/abs/2609.19297",
+      "pdf": "https://arxiv.org/pdf/2609.19297"
+    },
+    {
+      "id": "2609.08052",
+      "title": "Fortuitous ABJM Operators as Black Holes",
+      "authors": [
+        "Connor Behan",
+        "Leonardo Pipolo de Gioia"
+      ],
+      "date": "2026-09-07",
+      "category": "hep-th",
+      "topics": [
+        "ABJM"
+      ],
+      "kind": "core",
+      "summary": "Follows fortuitous ABJM operator trajectories as rank varies and investigates their large-N limits, allowed graviton dressings, and near-BPS gaps.",
+      "url": "https://arxiv.org/abs/2609.08052",
+      "pdf": "https://arxiv.org/pdf/2609.08052"
+    },
+    {
+      "id": "2608.12160",
+      "title": "Fortuity and fragility in supersymmetric SYK",
+      "authors": [
+        "James Chryssanthacopoulos",
+        "David Vegh"
+      ],
+      "date": "2026-08-12",
+      "category": "hep-th",
+      "topics": [
+        "SYK"
+      ],
+      "kind": "core",
+      "summary": "Quantifies the obstruction and metric cost of uplifting BPS representatives across SYK system sizes, relating this fragility to BPS chaos.",
+      "url": "https://arxiv.org/abs/2608.12160",
+      "pdf": "https://arxiv.org/pdf/2608.12160"
+    },
+    {
+      "id": "2606.27955",
+      "title": "Quantum black hole cohomologies",
+      "authors": [
+        "Seok Kim",
+        "Seongmin Kim",
+        "Siyul Lee",
+        "Jiyoo Park"
+      ],
+      "date": "2026-06-26",
+      "category": "hep-th",
+      "topics": [
+        "N=4 SYM",
+        "Quantum corrections"
+      ],
+      "kind": "core",
+      "summary": "Examines quantum corrections to classical black hole cohomology, identifying both lifted and surviving fortuitous SU(2) classes.",
+      "url": "https://arxiv.org/abs/2606.27955",
+      "pdf": "https://arxiv.org/pdf/2606.27955"
+    },
+    {
+      "id": "2606.20353",
+      "title": "Fortuity beyond counting: an explicit construction",
+      "authors": [
+        "Stefano Giusto",
+        "James Inglis",
+        "Rodolfo Russo"
+      ],
+      "date": "2026-06-18",
+      "category": "hep-th",
+      "topics": [
+        "D1–D5"
+      ],
+      "kind": "core",
+      "summary": "Constructs deformed K3-orbifold cohomologies explicitly and finds a three-point coupling connecting monotone and fortuitous sectors.",
+      "url": "https://arxiv.org/abs/2606.20353",
+      "pdf": "https://arxiv.org/pdf/2606.20353"
+    },
+    {
+      "id": "2605.16254",
+      "title": "Fortuity and Complexity in a Simple Quark Model",
+      "authors": [
+        "Jackson R. Fliss",
+        "Vishnu Jejjala",
+        "Onkar Parrikar"
+      ],
+      "date": "2026-05-15",
+      "category": "hep-th",
+      "topics": [
+        "Other models"
+      ],
+      "kind": "core",
+      "summary": "Extends the monotone–fortuitous distinction to BRST cohomology in a quark model and compares the counting and complexity of meson and baryon states.",
+      "url": "https://arxiv.org/abs/2605.16254",
+      "pdf": "https://arxiv.org/pdf/2605.16254"
+    },
+    {
+      "id": "2604.27164",
+      "title": "BPS spectra of Tr[Ψ^p] matrix models for odd p",
+      "authors": [
+        "Miguel Tierz"
+      ],
+      "date": "2026-04-29",
+      "category": "hep-th",
+      "topics": [
+        "Other models",
+        "General framework"
+      ],
+      "kind": "core",
+      "summary": "Studies fermionic matrix models with odd-power supercharges, computing finite-rank BPS multiplicities and Hamiltonians. Rank projections define a stable-image test for fortuity; identification of particular classes is conditional on reported numerical vanishings at larger rank.",
+      "url": "https://arxiv.org/abs/2604.27164",
+      "pdf": "https://arxiv.org/pdf/2604.27164"
+    },
+    {
+      "id": "2604.23287",
+      "title": "Chaos of Berry curvature for BPS microstates",
+      "authors": [
+        "Yiming Chen",
+        "Sean Colin-Ellerin",
+        "Ohad Mamroud",
+        "Kyriakos Papadodimas"
+      ],
+      "date": "2026-04-25",
+      "category": "hep-th",
+      "topics": [
+        "Other models",
+        "D1–D5",
+        "N=4 SYM"
+      ],
+      "kind": "background",
+      "summary": "Uses non-Abelian Berry curvature to probe chaos inside degenerate BPS sectors. Computations in supersymmetric JT gravity and SYK show random-matrix behavior, contrasting with structured curvature for states associated with horizonless geometries.",
+      "url": "https://arxiv.org/abs/2604.23287",
+      "pdf": "https://arxiv.org/pdf/2604.23287"
+    },
+    {
+      "id": "2604.15600",
+      "title": "Secondary invariants and non-perturbative states",
+      "authors": [
+        "Robert de Mello Koch",
+        "João P. Rodrigues"
+      ],
+      "date": "2026-04-17",
+      "category": "hep-th",
+      "topics": [
+        "Other models",
+        "General framework"
+      ],
+      "kind": "background",
+      "summary": "Examines finite-N invariant rings through their Hironaka decomposition. Simple matrix integrals illustrate a proposed interpretation of primary invariants as perturbative degrees of freedom and secondary invariants as distinguished nonperturbative sectors.",
+      "url": "https://arxiv.org/abs/2604.15600",
+      "pdf": "https://arxiv.org/pdf/2604.15600"
+    },
+    {
+      "id": "2603.18138",
+      "title": "The Resolved Elliptic Genus and the D1-D5 CFT",
+      "authors": [
+        "Marcel R. R. Hughes",
+        "Masaki Shigemori"
+      ],
+      "date": "2026-03-18",
+      "category": "hep-th",
+      "topics": [
+        "D1–D5"
+      ],
+      "kind": "background",
+      "summary": "Develops the resolved elliptic genus using Schur–Weyl duality and a proposed superselection rule for BPS lifting. The refined index separates black-hole microstate sectors hidden by the modified elliptic genus and discusses applications to fortuity.",
+      "url": "https://arxiv.org/abs/2603.18138",
+      "pdf": "https://arxiv.org/pdf/2603.18138"
+    },
+    {
+      "id": "2601.17122",
+      "title": "Fortuitous Chaos, BPS Black Holes, and Random Matrices",
+      "authors": [
+        "Clifford V. Johnson"
+      ],
+      "date": "2026-01-23",
+      "category": "hep-th",
+      "topics": [
+        "Other models",
+        "General framework"
+      ],
+      "kind": "core",
+      "summary": "Develops a random-matrix model motivated by fortuitous BPS chaos and its connection with supersymmetric JT gravity.",
+      "url": "https://arxiv.org/abs/2601.17122",
+      "pdf": "https://arxiv.org/pdf/2601.17122"
+    },
+    {
+      "id": "2512.23603",
+      "title": "Two roads to fortuity in ABJM theory",
+      "authors": [
+        "Connor Behan",
+        "Leonardo Pipolo de Gioia"
+      ],
+      "date": "2025-12-29",
+      "category": "hep-th",
+      "topics": [
+        "ABJM",
+        "BMN"
+      ],
+      "kind": "core",
+      "summary": "Enumerates low-lying fortuitous operators in weakly coupled ABJM and transfers an infinite BMN cohomology tower through a matching supercharge truncation.",
+      "url": "https://arxiv.org/abs/2512.23603",
+      "pdf": "https://arxiv.org/pdf/2512.23603"
+    },
+    {
+      "id": "2512.12674",
+      "title": "Fortuity and relevant deformation",
+      "authors": [
+        "Jaehyeok Choi",
+        "Seunggyu Kim"
+      ],
+      "date": "2025-12-14",
+      "category": "hep-th",
+      "topics": [
+        "N=4 SYM",
+        "Other models"
+      ],
+      "kind": "core",
+      "summary": "Tracks supercharge cohomology under a relevant deformation of N=4 SYM and shows how the deformation can turn monotone UV classes into fortuitous ones.",
+      "url": "https://arxiv.org/abs/2512.12674",
+      "pdf": "https://arxiv.org/pdf/2512.12674"
+    },
+    {
+      "id": "2512.04146",
+      "title": "Fortuity in ABJM",
+      "authors": [
+        "Alexandre Belin",
+        "Palash Singh",
+        "Rita Vadala",
+        "Alberto Zaffaroni"
+      ],
+      "date": "2025-12-03",
+      "category": "hep-th",
+      "topics": [
+        "ABJM"
+      ],
+      "kind": "core",
+      "summary": "Constructs fortuitous ABJM cohomologies at small rank, including additional states in monopole sectors at Chern–Simons level k = 2.",
+      "url": "https://arxiv.org/abs/2512.04146",
+      "pdf": "https://arxiv.org/pdf/2512.04146"
+    },
+    {
+      "id": "2512.02103",
+      "title": "To gauge or to double gauge? Matrix models, global symmetry, and black hole cohomologies",
+      "authors": [
+        "Adwait Gaikwad",
+        "Tanay Kibe",
+        "Sam van Leuven",
+        "Kayleigh Mathieson"
+      ],
+      "date": "2025-12-01",
+      "category": "hep-th",
+      "topics": [
+        "N=4 SYM",
+        "BMN",
+        "Other models"
+      ],
+      "kind": "core",
+      "summary": "Projects BMN cohomology onto R-symmetry singlets to isolate much of the non-graviton spectrum and obtain a closed SU(3) singlet index.",
+      "url": "https://arxiv.org/abs/2512.02103",
+      "pdf": "https://arxiv.org/pdf/2512.02103"
+    },
+    {
+      "id": "2511.23294",
+      "title": "Fortuity and R-charge concentration in the D1-D5 CFT",
+      "authors": [
+        "Chi-Ming Chang",
+        "Haoyu Zhang"
+      ],
+      "date": "2025-11-28",
+      "category": "hep-th",
+      "topics": [
+        "D1–D5"
+      ],
+      "kind": "core",
+      "summary": "Constructs explicit fortuitous cohomology classes at N=2 and N=3 in the D1–D5 CFT. Their representation content motivates a conjecture linking the largest symmetry representations to fortuity and gives evidence for R-charge concentration.",
+      "url": "https://arxiv.org/abs/2511.23294",
+      "pdf": "https://arxiv.org/pdf/2511.23294"
+    },
+    {
+      "id": "2511.09519",
+      "title": "Konishi lifts a black hole",
+      "authors": [
+        "Jaehyeok Choi",
+        "Eunwoo Lee"
+      ],
+      "date": "2025-11-12",
+      "category": "hep-th",
+      "topics": [
+        "N=4 SYM",
+        "Quantum corrections"
+      ],
+      "kind": "core",
+      "summary": "Shows that the quantum-corrected supercharge pairs and lifts an extra monotone–fortuitous pair in SO(7), using the generalized Konishi anomaly.",
+      "url": "https://arxiv.org/abs/2511.09519",
+      "pdf": "https://arxiv.org/pdf/2511.09519"
+    },
+    {
+      "id": "2511.03105",
+      "title": "BPS phases and fortuity in higher spin holography",
+      "authors": [
+        "Seok Kim",
+        "Jehyun Lee",
+        "Siyul Lee",
+        "Hyunwoo Oh"
+      ],
+      "date": "2025-11-05",
+      "category": "hep-th",
+      "topics": [
+        "Other models"
+      ],
+      "kind": "core",
+      "summary": "Studies BPS bound states and a new finite-rank operator in vector Chern–Simons theory, alongside large-N index phases relevant to higher-spin black holes.",
+      "url": "https://arxiv.org/abs/2511.03105",
+      "pdf": "https://arxiv.org/pdf/2511.03105"
+    },
+    {
+      "id": "2511.00790",
+      "title": "Fortuity with a single matrix",
+      "authors": [
+        "Yiming Chen"
+      ],
+      "date": "2025-11-02",
+      "category": "hep-th",
+      "topics": [
+        "Other models"
+      ],
+      "kind": "core",
+      "summary": "Presents an exactly solvable supersymmetric quantum mechanics with one adjoint fermionic matrix and many fortuitous states. Exact finite-N calculations and a unitary matrix integral make the sensitive dependence on rank directly accessible.",
+      "url": "https://arxiv.org/abs/2511.00790",
+      "pdf": "https://arxiv.org/pdf/2511.00790"
+    },
+    {
+      "id": "2510.24008",
+      "title": "Violation of S-duality in classical Q-cohomology",
+      "authors": [
+        "Chi-Ming Chang",
+        "Ying-Hsuan Lin"
+      ],
+      "date": "2025-10-28",
+      "category": "hep-th",
+      "topics": [
+        "N=4 SYM",
+        "Quantum corrections"
+      ],
+      "kind": "core",
+      "summary": "Finds a monotone–fortuitous pair that obstructs classical cohomology matching between S-dual theories, challenging one-loop exactness of the BPS spectrum.",
+      "url": "https://arxiv.org/abs/2510.24008",
+      "pdf": "https://arxiv.org/pdf/2510.24008"
+    },
+    {
+      "id": "2509.19425",
+      "title": "A New Supersymmetry Index for the D1-D5 CFT",
+      "authors": [
+        "Marcel R. R. Hughes",
+        "Masaki Shigemori"
+      ],
+      "date": "2025-09-23",
+      "category": "hep-th",
+      "topics": [
+        "D1–D5"
+      ],
+      "kind": "background",
+      "summary": "Introduces a refined supersymmetry index for the T4 D1–D5 CFT. It matches supergravity below the black-hole threshold and resolves microstate sectors above it; the longer companion paper develops its connection to fortuity.",
+      "url": "https://arxiv.org/abs/2509.19425",
+      "pdf": "https://arxiv.org/pdf/2509.19425"
+    },
+    {
+      "id": "2506.13887",
+      "title": "Probing Non-Graviton Spectra in N=4 SYM via BMN truncation and S-Duality",
+      "authors": [
+        "Abhijit Gadde",
+        "Eunwoo Lee",
+        "Rajat Raj",
+        "Shivansh Tomar"
+      ],
+      "date": "2025-06-16",
+      "category": "hep-th",
+      "topics": [
+        "N=4 SYM",
+        "BMN"
+      ],
+      "kind": "core",
+      "summary": "Computes exact low-rank BMN indices and uses discrepancies between S-dual truncations to identify non-graviton cohomologies.",
+      "url": "https://arxiv.org/abs/2506.13887",
+      "pdf": "https://arxiv.org/pdf/2506.13887"
+    },
+    {
+      "id": "2505.14888",
+      "title": "Fortuity and Supergravity",
+      "authors": [
+        "Marcel R. R. Hughes",
+        "Masaki Shigemori"
+      ],
+      "date": "2025-05-20",
+      "category": "hep-th",
+      "topics": [
+        "D1–D5"
+      ],
+      "kind": "core",
+      "summary": "Includes singleton states in the monotone supergravity spectrum and constructs explicit fortuitous states for Sym²(K3). The revised classification treats singletons as monotone.",
+      "url": "https://arxiv.org/abs/2505.14888",
+      "pdf": "https://arxiv.org/pdf/2505.14888"
+    },
+    {
+      "id": "2504.14181",
+      "title": "Bosonic Fortuity in Vector Models",
+      "authors": [
+        "Robert de Mello Koch",
+        "Animik Ghosh",
+        "Hendrik J.R. Van Zyl"
+      ],
+      "date": "2025-04-19",
+      "category": "hep-th",
+      "topics": [
+        "Other models"
+      ],
+      "kind": "core",
+      "summary": "Uses invariant theory in matrix–vector systems to identify secondary invariants and proposes a bosonic analogue of fortuity.",
+      "url": "https://arxiv.org/abs/2504.14181",
+      "pdf": "https://arxiv.org/pdf/2504.14181"
+    },
+    {
+      "id": "2501.05448",
+      "title": "Fortuity in the D1-D5 system",
+      "authors": [
+        "Chi-Ming Chang",
+        "Ying-Hsuan Lin",
+        "Haoyu Zhang"
+      ],
+      "date": "2025-01-09",
+      "category": "hep-th",
+      "topics": [
+        "D1–D5"
+      ],
+      "kind": "core",
+      "summary": "Formulates D1–D5 lifting as a cohomology problem, constructs low-rank classes, and develops the monotone–fortuitous classification for symmetric orbifolds.",
+      "url": "https://arxiv.org/abs/2501.05448",
+      "pdf": "https://arxiv.org/pdf/2501.05448"
+    },
+    {
+      "id": "2412.08695",
+      "title": "Brane-fused black hole operators",
+      "authors": [
+        "Robert de Mello Koch",
+        "Minkyoo Kim",
+        "Seok Kim",
+        "Jehyun Lee",
+        "Siyul Lee"
+      ],
+      "date": "2024-12-11",
+      "category": "hep-th",
+      "topics": [
+        "N=4 SYM",
+        "BMN"
+      ],
+      "kind": "core",
+      "summary": "Constructs new cohomologies by fusing lower-rank black hole cores with dual giant graviton hair and studies associated partial no-hair behavior.",
+      "url": "https://arxiv.org/abs/2412.08695",
+      "pdf": "https://arxiv.org/pdf/2412.08695"
+    },
+    {
+      "id": "2412.06902",
+      "title": "Fortuity in SYK Models",
+      "authors": [
+        "Chi-Ming Chang",
+        "Yiming Chen",
+        "Bik Soon Sia",
+        "Zhenbin Yang"
+      ],
+      "date": "2024-12-09",
+      "category": "hep-th",
+      "topics": [
+        "General framework",
+        "SYK"
+      ],
+      "kind": "core",
+      "summary": "Studies fortuity in supersymmetric SYK, relating charge concentration and random-matrix behavior to a proposed supercharge-chaos principle.",
+      "url": "https://arxiv.org/abs/2412.06902",
+      "pdf": "https://arxiv.org/pdf/2412.06902"
+    },
+    {
+      "id": "2407.19387",
+      "title": "BPS Chaos",
+      "authors": [
+        "Yiming Chen",
+        "Henry W. Lin",
+        "Stephen H. Shenker"
+      ],
+      "date": "2024-07-28",
+      "category": "hep-th",
+      "topics": [
+        "General framework",
+        "N=4 SYM",
+        "D1–D5"
+      ],
+      "kind": "core",
+      "summary": "Applies the LMRS diagnostic to BPS sectors and argues that fortuity can preserve the strong chaos expected of finite-area black hole microstates.",
+      "url": "https://arxiv.org/abs/2407.19387",
+      "pdf": "https://arxiv.org/pdf/2407.19387"
+    },
+    {
+      "id": "2402.10129",
+      "title": "Holographic covering and the fortuity of black holes",
+      "authors": [
+        "Chi-Ming Chang",
+        "Ying-Hsuan Lin"
+      ],
+      "date": "2024-02-15",
+      "category": "hep-th",
+      "topics": [
+        "General framework"
+      ],
+      "kind": "core",
+      "summary": "Introduces the monotone–fortuitous classification through supercharge cohomology and proposes its relation to horizonless geometries and typical black hole microstates.",
+      "url": "https://arxiv.org/abs/2402.10129",
+      "pdf": "https://arxiv.org/pdf/2402.10129"
+    },
+    {
+      "id": "2312.16443",
+      "title": "Finite N black hole cohomologies",
+      "authors": [
+        "Jaehyeok Choi",
+        "Sunjin Choi",
+        "Seok Kim",
+        "Jehyun Lee",
+        "Siyul Lee"
+      ],
+      "date": "2023-12-27",
+      "category": "hep-th",
+      "topics": [
+        "N=4 SYM",
+        "BMN"
+      ],
+      "kind": "background",
+      "summary": "Constructs and counts finite-rank non-graviton BMN cohomologies, including an SU(3) threshold operator and towers with partial no-hair behavior.",
+      "url": "https://arxiv.org/abs/2312.16443",
+      "pdf": "https://arxiv.org/pdf/2312.16443"
+    },
+    {
+      "id": "2306.04693",
+      "title": "Following Black Hole States",
+      "authors": [
+        "Kasia Budzik",
+        "Harish Murali",
+        "Pedro Vieira"
+      ],
+      "date": "2023-06-07",
+      "category": "hep-th",
+      "topics": [
+        "N=4 SYM"
+      ],
+      "kind": "background",
+      "summary": "Follows a light black hole operator continuously in rank, exposing how a generically non-BPS trajectory becomes BPS at a special finite N.",
+      "url": "https://arxiv.org/abs/2306.04693",
+      "pdf": "https://arxiv.org/pdf/2306.04693"
+    },
+    {
+      "id": "2304.10155",
+      "title": "Towards quantum black hole microstates",
+      "authors": [
+        "Sunjin Choi",
+        "Seok Kim",
+        "Eunwoo Lee",
+        "Siyul Lee",
+        "Jaemo Park"
+      ],
+      "date": "2023-04-20",
+      "category": "hep-th",
+      "topics": [
+        "N=4 SYM",
+        "BMN"
+      ],
+      "kind": "background",
+      "summary": "Constructs an infinite tower of SU(2) non-graviton cohomologies and identifies forbidden graviton dressings, establishing partial no-hair behavior in the BMN sector.",
+      "url": "https://arxiv.org/abs/2304.10155",
+      "pdf": "https://arxiv.org/pdf/2304.10155"
+    },
+    {
+      "id": "2209.06728",
+      "title": "Words to describe a black hole",
+      "authors": [
+        "Chi-Ming Chang",
+        "Ying-Hsuan Lin"
+      ],
+      "date": "2022-09-14",
+      "category": "hep-th",
+      "topics": [
+        "N=4 SYM"
+      ],
+      "kind": "background",
+      "summary": "Identifies SU(2) BPS states beyond the multi-graviton spectrum, providing an early constructive foundation for later studies of fortuitous cohomology.",
+      "url": "https://arxiv.org/abs/2209.06728",
+      "pdf": "https://arxiv.org/pdf/2209.06728"
+    }
+  ]
+}

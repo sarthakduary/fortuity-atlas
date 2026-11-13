@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f4f2eb">
+  <meta name="description" content="An annotated research collection of arXiv hep-th papers on fortuity, fortuitous BPS states, supercharge cohomology, and black-hole microstates.">
+  <title>Fortuity Atlas — An arXiv research collection</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#collection">Skip to papers</a>
+  <header class="site-header shell">
+    <a class="wordmark" href="#" aria-label="Fortuity Atlas home"><span class="brand-icon" aria-hidden="true">f</span> FORTUITY <span class="wordmark-light">ATLAS</span></a>
+    <nav aria-label="Main navigation"><a href="#collection">Collection</a><a href="#about">About</a><a class="github-link" href="papers.json" download>Dataset <span aria-hidden="true">↓</span></a></nav>
+  </header>
+
+  <main>
+    <section class="hero shell" aria-labelledby="hero-title">
+      <div class="hero-copy">
+        <p class="eyebrow"><span class="live-dot" aria-hidden="true"></span> AN OPEN RESEARCH COLLECTION · HEP-TH</p>
+        <h1 id="hero-title">Fortuity,<br><em>in focus.</em></h1>
+        <p class="hero-description">A curated map of fortuitous BPS states, supercharge cohomology, and black-hole microstates.</p>
+        <a class="primary-link" href="#collection">Explore the literature <span aria-hidden="true">↓</span></a>
+      </div>
+      <div class="hero-art" aria-hidden="true">
+        <svg viewBox="0 0 600 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <defs><pattern id="dots" width="23" height="23" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".7" fill="#243932" opacity=".17"/></pattern><radialGradient id="soft"><stop stop-color="#e1e6db" stop-opacity=".65"/><stop offset="1" stop-color="#f4f2eb" stop-opacity="0"/></radialGradient></defs>
+          <rect x="25" y="15" width="550" height="480" fill="url(#dots)"/>
+          <circle cx="300" cy="260" r="225" fill="url(#soft)"/>
+          <g stroke="#52695d" stroke-width=".85" opacity=".48">
+            <ellipse cx="305" cy="255" rx="220" ry="180" transform="rotate(-32 305 255)"/>
+            <ellipse cx="305" cy="255" rx="202" ry="168" transform="rotate(-27 305 255)"/>
+            <ellipse cx="305" cy="255" rx="184" ry="156" transform="rotate(-21 305 255)"/>
+            <ellipse cx="305" cy="255" rx="166" ry="144" transform="rotate(-14 305 255)"/>
+            <ellipse cx="305" cy="255" rx="148" ry="132" transform="rotate(-5 305 255)"/>
+            <ellipse cx="305" cy="255" rx="130" ry="120" transform="rotate(8 305 255)"/>
+            <ellipse cx="305" cy="255" rx="112" ry="108" transform="rotate(25 305 255)"/>
+            <ellipse cx="305" cy="255" rx="94" ry="96" transform="rotate(39 305 255)"/>
+            <ellipse cx="305" cy="255" rx="76" ry="84" transform="rotate(51 305 255)"/>
+            <ellipse cx="305" cy="255" rx="58" ry="72" transform="rotate(61 305 255)"/>
+            <ellipse cx="305" cy="255" rx="40" ry="60" transform="rotate(67 305 255)"/>
+            <path d="M65 368 535 142M130 66 480 436" stroke-dasharray="3 6" opacity=".5"/>
+          </g>
+          <path d="M105 371C169 354 179 329 214 307C256 280 264 303 302 266C336 233 325 195 374 166C414 142 463 151 492 119" stroke="#b95138" stroke-width="2"/>
+          <g fill="#b95138" stroke="#f4f2eb" stroke-width="5"><circle cx="214" cy="307" r="6.5"/><circle cx="302" cy="266" r="8"/><circle cx="374" cy="166" r="6.5"/></g>
+          <circle cx="302" cy="266" r="18" stroke="#b95138" stroke-width=".8" opacity=".5"/>
+          <path d="M302 266V415H433" stroke="#b95138" stroke-width=".7" stroke-dasharray="2 4" opacity=".7"/>
+          <text x="444" y="421" fill="#b95138" font-size="17" font-family="Georgia, serif" font-style="italic">finite N</text>
+          <text x="95" y="76" fill="#52695d" font-size="23" font-family="Georgia, serif" font-style="italic">H<tspan baseline-shift="sub" font-size="13">Q</tspan></text>
+          <text x="454" y="67" fill="#52695d" font-size="10" font-family="monospace" letter-spacing="2">THE FINITE-N LANDSCAPE</text>
+          <path d="M28 24h16m-8-8v16M563 480h16m-8-8v16" stroke="#52695d" stroke-width=".8"/>
+        </svg>
+        <p>NEW STRUCTURES. FINITE RANK. UNEXPECTED STATES.</p>
+      </div>
+    </section>
+
+    <div class="collection-meta shell" aria-label="Collection metadata">
+      <div><span class="meta-value" id="total-count">—</span><span class="meta-label">Papers indexed</span></div>
+      <div><span class="meta-value">hep-th</span><span class="meta-label">arXiv subject</span></div>
+      <div><span class="meta-value" id="verified-date">13 Nov 2026</span><span class="meta-label">Last reviewed</span></div>
+      <a href="#about" class="scope-link">How this collection is curated <span aria-hidden="true">↗</span></a>
+    </div>
+
+    <section id="collection" class="collection shell" aria-labelledby="collection-title">
+      <div class="section-heading"><div><p class="eyebrow">01 / THE LITERATURE</p><h2 id="collection-title">Explore the collection<span>.</span></h2></div><button class="text-button" id="download-bib" type="button">Download BibTeX <span aria-hidden="true">↓</span></button></div>
+      <form class="search-bar" id="search-form" role="search">
+        <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 4.5 4.5"/></svg>
+        <label class="sr-only" for="search">Search papers</label><input id="search" type="search" placeholder="Search by title, author, arXiv ID, or keyword…" autocomplete="off"><kbd aria-hidden="true">/</kbd>
+      </form>
+      <div class="filter-bar"><div class="topic-filters" id="topic-filters" role="group" aria-label="Filter by research topic"><button type="button" class="topic-chip selected" data-topic="all" aria-pressed="true">All topics</button></div></div>
+      <div class="result-toolbar"><p id="results-count" role="status" aria-live="polite">Loading the collection…</p><div class="selects"><label for="kind">Scope</label><select id="kind"><option value="all">All papers</option><option value="core">Core research</option><option value="background">Background</option></select><span class="select-divider" aria-hidden="true"></span><label for="year">Year</label><select id="year"><option value="all">All years</option></select><span class="select-divider" aria-hidden="true"></span><label for="sort">Sort</label><select id="sort"><option value="newest">Newest first</option><option value="oldest">Oldest first</option><option value="title">Title A–Z</option></select></div></div>
+      <div id="papers" class="papers" aria-busy="true"></div>
+      <div id="empty-state" class="empty-state" hidden><span aria-hidden="true">∅</span><h3>No papers found</h3><p>Try a different author, keyword, or combination of filters.</p><button id="clear-filters" class="primary-link" type="button">Reset filters <span aria-hidden="true">↺</span></button></div>
+      <div id="load-error" class="empty-state" hidden><h3>The collection could not be loaded.</h3><p>Please refresh the page, or download the dataset below.</p><a class="primary-link" href="papers.json">Open the dataset ↗</a></div>
+      <p class="collection-footnote">Original submission dates · One entry per arXiv paper · Summaries are editorial descriptions</p>
+    </section>
+
+    <section id="about" class="about-section" aria-labelledby="about-title"><div class="shell about-grid"><div><p class="eyebrow">02 / ABOUT THE ATLAS</p><h2 id="about-title">A small distinction.<br><em>A rich landscape.</em></h2></div><div class="about-copy"><p>Fortuity describes BPS cohomology that exists at special finite ranks, rather than persisting in the same way as rank grows. The distinction between fortuitous and monotonous states offers a lens on the microscopic structure of supersymmetric black holes.</p><p>This collection brings together papers on fortuity and closely connected foundational work in arXiv’s <strong>hep-th</strong> category. Search covers titles, authors, arXiv identifiers, topics, and the short descriptions provided here.</p><details class="scope-details"><summary>Scope &amp; inclusion criteria <span aria-hidden="true">+</span></summary><p>Entries are selected from searches for “fortuity,” “fortuitous,” and related BPS-cohomology terminology in titles and abstracts, together with relevant papers identified through references. Core papers directly investigate these questions; background papers supply important context. This is a reviewed bibliography, not a guarantee that every relevant paper has been captured. The review date is shown above.</p><p>All entries link to their arXiv source. Category, authorship, and dates are verified against source metadata. No unpublished or unverified manuscripts are included.</p></details><div class="about-links"><a href="papers.json" download>Download dataset <span aria-hidden="true">↓</span></a><a href="#collection">Return to the collection <span aria-hidden="true">↑</span></a></div></div></div></section>
+  </main>
+  <footer class="shell"><a class="wordmark" href="#"><span class="brand-icon" aria-hidden="true">f</span> FORTUITY <span class="wordmark-light">ATLAS</span></a><p>An independent research index. Not affiliated with arXiv.</p><a href="#">Back to top ↑</a></footer>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <dialog id="bib-dialog"><div class="dialog-heading"><h2>BibTeX citation</h2><button type="button" id="close-dialog" aria-label="Close citation">×</button></div><p>Select and copy the citation below.</p><textarea id="bib-fallback" readonly aria-label="BibTeX citation"></textarea></dialog>
+</body>
+</html>
